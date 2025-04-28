@@ -1,0 +1,4 @@
+# http://user1:pass1@11.22.33.44:8080
+# https://44.55.66.77:3128
+# http://admin:secure123@88.99.11.22:80
+# https://proxy.example.com:8443
